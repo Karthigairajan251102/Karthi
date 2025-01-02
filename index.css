@@ -1,0 +1,200 @@
+
+#navcontent{
+    color: white;
+    border-bottom: 1px solid white;
+}
+#nav-text{
+    color: white;
+}
+#nav-text:hover{
+    background-color: rgb(210, 98, 12);
+    border-radius: 5px;
+}
+.mypic{
+    border-left: 4px solid whitesmoke;
+    border-right: 4px solid wheat;
+    height: 65%;
+    width: 70%;
+    border-radius: 50%;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .mypic  {
+        width: 100%;
+        height: 85%;
+    }
+    
+}
+#home{
+    margin-top: 200px;
+    width: 70%;
+    height: 50%;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    #home  {
+        margin-top: 50px;
+    }
+    
+}
+
+.contact{
+    color: white;
+}
+.karthi{
+    color: rgb(210, 98, 12);
+}
+.contactbtn{
+    border: none;
+    background-color: rgb(210, 98, 12);
+    border-radius: 3px;
+    color: white;
+}
+.resume{
+    text-decoration: none;
+    color: white;
+}
+.resume:hover{
+    color: white;
+}
+.resumebtn{
+    border: none;
+    background-color: rgb(210, 98, 12);
+    border-radius: 3px;
+}
+
+#about{
+    margin-top: 50px;
+    /* background-color: rgb(73, 1, 1); */
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .education  {
+        margin-top: 30px;
+    }
+    
+}
+#skills{
+    margin-top: 50px;
+    background-color: rgb(73, 1, 1);
+    border-radius: 30px;
+}
+#skills:hover{
+    border: 2px solid white;
+}
+.skilltitle{
+    margin: 30px;
+    text-align: center;
+}
+.logo{
+    width: 20%;
+}
+.js{
+    width: 30%;
+    height: 100px;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .js  {
+        height: auto;
+        width: 50%;
+    }
+    
+}
+.skill{
+    text-align: center;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .logo  {
+        width: 40%;
+    }
+    
+}
+#boots{
+    margin-top: 50px;
+}
+.java{
+    width: 20%;
+    height: 60px;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .java  {
+        width: 40%;
+        height: 30px;
+    }
+    
+}
+.spring{
+    width: 30%;
+    height: 60px;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .spring  {
+        width: 30%;
+        height: 30px;
+    }
+    
+}
+#reactdb{
+    margin-top: 50px;
+}
+.react{
+    width: 20%;
+    height: 60px;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .react  {
+        width: 30%;
+        height: 50px;
+    }
+    
+}
+.mongo{
+    width: 20%;
+    height: 60px;
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .mongo  {
+        width: 40%;
+        height: 50px;
+    }
+    
+}
+#projectname{
+    color: rgb(210, 98, 12);
+}
+@media screen and (min-width: 320px) and (max-width: 700px){
+    .portfolio  {
+        margin-top: 30px;
+    }
+    
+}
+.project{
+    background-color: rgb(60, 2, 2);
+    border-radius: 30px;
+}
+.certificate{
+    margin-top: 30px;
+    width: 70%;
+    border-radius: 30px;
+}
+
+.namemail{
+    border: none;
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(105, 3, 3);
+    border-radius: 3px;
+}
+.message{
+    border: none;
+    margin-top: 10px;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(105, 3, 3);
+    border-radius: 3px;
+}
+.submitbtn{
+    border: none;
+    margin-top: 10px;
+    background-color: rgb(210, 98, 12);
+    border-radius: 3px;
+    color: white;
+}
